@@ -1,0 +1,2 @@
+# NFTManAdminSettings
+NFTManAdminSettings
