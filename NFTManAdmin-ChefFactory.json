@@ -1,6 +1,7 @@
 {
   "4": {
-    "ndao": "0x4dCf5ac4509888714dd43A5cCc46d7ab389D9c23",
-    "veToken": "0x4dCf5ac4509888714dd43A5cCc46d7ab389D9c23"
+    "ndao": "0x74b34721557ff8f57023070ca0e347b879293047",
+    "veToken": "0xc53FA555f1c79b3dA55665536368caa6D569dDe0",
+    "factory": "0x82d49CBA7a211fcdeb6baCB6B15A8f498AD34652"
   }
 }
